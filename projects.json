@@ -1,0 +1,59 @@
+[
+    {
+        "project-title": "Auvit POS - Bluechip",
+        "path": "C:\\Users\\shubh\\Desktop\\ionic\\AuvitPOS",
+		"open_new_project_terminal": true,
+        "commands": [
+            {
+                "cmd": "start .",
+                "new_window": false
+            },
+            {
+                "cmd": "code .",
+                "new_window": false
+            },
+            {
+                "cmd": "ionic serve",
+                "new_window": true
+            }
+        ]
+    },
+    {
+        "project-title": "FluenC - Bluechip",
+        "path": "C:\\Users\\shubh\\Desktop\\ionic\\FluenC",
+		"open_new_project_terminal": true,
+        "commands": [
+            {
+                "cmd": "start .",
+                "new_window": false
+            },
+            {
+                "cmd": "code .",
+                "new_window": false
+            },
+            {
+                "cmd": "ionic serve",
+                "new_window": true
+            }
+        ]
+    },
+    {
+        "project-title": "MoviePedia",
+        "path": "D:\\work\\personal\\MoviePedia\\project_files\\MoviePedia",
+		"open_new_project_terminal": true,
+        "commands": [
+            {
+                "cmd": "start .",
+                "new_window": false
+            },
+            {
+                "cmd": "code .",
+                "new_window": false
+            },
+			{
+                "cmd": "ionic serve",
+                "new_window": true
+            }
+        ]
+    }
+]
